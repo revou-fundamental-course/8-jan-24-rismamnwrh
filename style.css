@@ -1,0 +1,54 @@
+h2 {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.pict {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.rumus {
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+b {
+  font-size: 20px;
+}
+
+.btn {
+  background-color: blue;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: darkblue;
+}
+
+.btn2 {
+  background-color: red;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn2:hover {
+  background-color: darkred;
+}
